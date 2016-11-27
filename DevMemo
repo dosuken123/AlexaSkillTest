@@ -1,0 +1,109 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+[Nov 13th 2016]
+
+TODO: Research published skills
+
+https://www.hackster.io/contests/alexa-api-contest
+Submitted projects
+https://www.hackster.io/contests/alexa-api-contest/projects
+TODO: Real world usefull skills
+
+Public APIs
+https://github.com/toddmotto/public-apis
+
+Coding the Amazon Echo (Alexa) - How to create custom Alexa skills from scratch with AWS Lambda
+https://www.youtube.com/watch?v=zt9WdE5kR6g
+
+Alexa skill store
+https://www.amazon.com/alexa-skills/b/ref=skillsrw_surl?ie=UTF8&node=13727921011
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+[Nov 26th 2016]
+
+Not complicated.
+Not entertaiment.
+Somthing relatd with lives.
+Frequenry used in manuvour.
+
+Search Japanese zip code.
+
+--- Get ---
+
+Entertainment
+  Hobby 3
+  Game 2
+  Trivia 12
+  Music
+    Lyrics 
+      Meaning 1
+    Tuner 1
+  Beer Information 1
+  Movie 
+    Recommendation 2
+    Theater search 1
+    rate 1
+  Restauratnt 1
+  Commic 1
+  Love 1
+  Life 1
+  NBA 1
+  NFL 3
+  Quotes 5
+  Chess 1
+  Look up Schedule 2
+  Receipe 1
+  Twitter
+    Kanye 1
+  Baby name 1
+  Price 1
+  Calcuation 1
+
+Useful
+  Home 
+    IP Location 1
+    Smart home skill 1
+  Fitness 4
+  Direction 1
+  Forecast 1
+  Confluence Knowledge Base (private wiki) 1
+  Find phone 1
+  Find store (Accurate time) 1
+  Currency exhancge 1
+  Translation 3
+  IFTTT 1
+  Suvelliance Cam 1
+  Recommendation TV Program. 1
+  News 2
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+[Nov 27th 2016]
+
+Mac Controller / PC Controller
+
+TODO: Voice Command -> Server
+NEXT: Server -> Execute Shell
+
+GetSubscriberCount current subscriber count
+GetSubscriberCount subscriber count
+GetSubscriberCount number of subscribers
+GetSubscriberCount how many subscribers do I have
+
+GetVideoViewCount current video view count
+GetVideoViewCount video view count
+GetVideoViewCount number of video views
+GetVideoViewCount how many video views do I have
+
+GetVideoViewCountSinceDate current video view count {SinceDate}
+GetVideoViewCountSinceDate video view count {SinceDate}
+GetVideoViewCountSinceDate number of video views {SinceDate}
+GetVideoViewCountSinceDate how many video views do I have {SinceDate}
+
+https://www.hackster.io/contests/alexa-api-contest
+https://echosim.io/
+https://developer.amazon.com/edw/home.html#/skill/amzn1.ask.skill.f7a11229-1b3b-410d-86ae-ac1afea6f176/en_US/testing
+https://www.youtube.com/watch?v=zt9WdE5kR6g
+http://alexa.amazon.com/spa/index.html#cards
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system
+
+
+
